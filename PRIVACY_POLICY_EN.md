@@ -4,7 +4,8 @@ EyeTalk (hereinafter referred to as "the App") respects your privacy and is comm
 
 ## 1. Information We Collect and How We Collect It
 
-The App does not require user registration, nor does it collect or transmit personally identifiable information to external servers. However, to provide the core functionalities, the App requests access to the following data locally on your device:
+The App does not require user registration, nor does it collect or transmit personally identifiable information to external servers. However, to provide the core functionalities, the App requests access to the following data locally on your device
+Additionally, since it does not create a user account, there is no need for a separate account deletion process, and all local data, including emergency contacts, stored on the device are permanently deleted as soon as the app is deleted.
 
 - **Camera Permission**: The App uses the front camera in real-time to track eye movements and blinks for interaction. This data is **processed locally on your device and is never stored, recorded, or transmitted to any external servers.**
 - **Contacts Permission**: We request access to your contacts solely to allow you to select emergency contacts. All contact data is stored locally on your device.
@@ -30,7 +31,7 @@ The App requires the following permissions to function properly:
 
 If you have any questions or concerns regarding this Privacy Policy, please feel free to contact us:
 
-- **Developer**: Nungil (EyeTalk) Team
-- **Repository (GitHub)**: [https://github.com/hyunker/nungil-docs](https://github.com/hyunker/nungil-docs)
+- **Developer**: Nungil Team
+- **Email**: slp51074@gmail.com
 
-_(Last updated: March 2, 2026)_
+_(Last updated: March 3, 2026)_
