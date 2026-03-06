@@ -1,6 +1,6 @@
 # Open Source Licenses
 
-The **Nungil (EyeTalk)** application is made possible thanks to the open source community. We would like to express our gratitude to the contributors and developers of the following open source software and libraries.
+The **Nungil** application is made possible thanks to the open source community. We would like to express our gratitude to the contributors and developers of the following open source software and libraries.
 
 Most of the libraries used in this App are distributed under the **Apache License 2.0** and other equivalent licenses. The following notices are provided in compliance with those licenses.
 
