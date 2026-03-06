@@ -8,7 +8,7 @@ The Developer grants you a revocable, non-exclusive, non-transferable, limited l
 
 ## 2. Purpose of the App and Not a Medical Device
 
-The App is designed as an Augmentative and Alternative Communication (AAC) assistive tool allowing individuals, such as patients with ALS, to communicate basic phrases and contact guardians using eye-tracking and blinks. **The App is NOT a medical device, and is not intended to be a substitute for professional medical equipment, diagnosis, treatment, or dedicated emergency monitoring systems.**
+The App is designed as an Augmentative and Alternative Communication (AAC) assistive tool allowing individuals, such as patients with ALS, to communicate basic phrases and contact guardians using eye-blink. **The App is NOT a medical device, and is not intended to be a substitute for professional medical equipment, diagnosis, treatment, or dedicated emergency monitoring systems.**
 
 ## 3. Disclaimer of Warranties
 
