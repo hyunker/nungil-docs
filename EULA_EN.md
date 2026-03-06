@@ -1,6 +1,6 @@
 # End-User License Agreement (EULA)
 
-Please read this End-User License Agreement ("EULA") carefully before downloading or using the **Nungil (EyeTalk)** application ("the App"). By installing or using the App, you agree to be bound by the terms and conditions of this Agreement.
+Please read this End-User License Agreement ("EULA") carefully before downloading or using the **Nungil** application ("the App"). By installing or using the App, you agree to be bound by the terms and conditions of this Agreement.
 
 ## 1. License Grant
 
