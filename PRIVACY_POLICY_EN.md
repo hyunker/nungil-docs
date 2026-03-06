@@ -1,6 +1,6 @@
 # Privacy Policy
 
-EyeTalk (hereinafter referred to as "the App") respects your privacy and is committed to protecting it. This Privacy Policy explains how the App handles your information.
+Nungil (hereinafter referred to as "the App") respects your privacy and is committed to protecting it. This Privacy Policy explains how the App handles your information.
 
 ## 1. Information We Collect and How We Collect It
 
